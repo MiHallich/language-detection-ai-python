@@ -1,0 +1,11 @@
+Wyporność – podstawowy parametr określający wielkość okrętów, rzadziej innych jednostek pływających. Wyporność jest miarą siły wyporu, określa masę wody wypartej przez zanurzoną część okrętu zgodnie z prawem Archimedesa (objętość zanurzonej części okrętu pomnożoną przez ciężar właściwy wody). Miarą wyporności jest tona (1000 kg) lub długa tona (1016 kg).
+
+Wyporność okrętu równa jest aktualnej masie okrętu, dlatego wyróżnia się przede wszystkim:
+
+wyporność konstrukcyjną (okrętu pustego, bez zapasów, ładunków, paliwa i amunicji)
+wyporność standardową (okręt z załogą, amunicją, zapasami, wodą kotłową itp., ale bez paliwa i rezerwy wody kotłowej)
+wyporność normalną (okręt ze zredukowanymi zapasami, pojęcie różnie definiowane w marynarkach)
+wyporność pełną (bojową) (wyporność standardowa z pełnym zapasem paliwa i rezerwą wody kotłowej)
+wyporność maksymalną (największą dopuszczalną wyporność, przy przyjęciu na okręt dodatkowych ciężarów)
+Najczęściej podawana jest wyporność standardowa. Pojęcie to zostało wprowadzone w traktacie waszyngtońskim w 1922 jako ujednolicony sposób mierzenia ciężaru okrętów. Obejmuje okręt wyposażony i gotowy do pływania, z załogą, amunicją, zapasami, wodą pitną, wodą kotłową itp., ale bez paliwa i rezerwy wody kotłowej. Pojęcie to zastąpiło tzw. wyporność normalną, mierzoną różnie w poszczególnych flotach (np. w marynarce brytyjskiej i za nią niektórych innych, wyporność normalna oznaczała wyporność okrętu gotowego do pływania z 1/4 zapasu paliwa, 3/4 amunicji, 1/3–2/3 innych zapasów i smarów i bez rezerwy wody kotłowej)[1]. Jednostką wyporności standardowej jest długa tona angielska (1016 kg), czasami dla odróżnienia określana jako tona standardowa (ts) lub tona waszyngtońska (tW).
+
